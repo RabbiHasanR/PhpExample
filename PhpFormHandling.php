@@ -20,7 +20,7 @@ E-mail:<input type="text" name="email"><br>
 <!-- Form validation -->
 <?php
 //define regular expression
-$firstNameRegex="/^[a-zA-Z ]*$/";
+$firstNameRegex="5";
 $lastNameRegex="/^[a-zA-Z ]*$/";
 $websiteRegex="/\b(?:(?:https?|ftp):\/\/|www\.)[-a-z0-9+&@#\/%?=~_|!:,.;]*[-a-z0-9+&@#\/%=~_|]/i";
 //define variables and set to empty values
